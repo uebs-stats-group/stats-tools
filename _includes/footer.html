@@ -13,15 +13,12 @@
             </svg><span>Subscribe</span>
           </a>
         </p>
-      {%- if site.authors %}
+      {%- if site.author %}
         <ul class="contact-list">
-          {% for author in site.authors %}
-            {{ author.name | escape }}{% if forloop.last == false %}, {% endif %}
-          {% endfor %}
-          <!--{% if site.author.name -%}
+          {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}-->
-          {% if site.authors.email -%}
+          {% endif -%}
+          {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
         </ul>
