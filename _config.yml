@@ -1,13 +1,7 @@
 title: Statistical Tools for Finance Research
 author:
-  #name: Dr Zexun Chen, Shiqi Fang, Heqing Shi
-  #email: your-email@domain.com
-  - name: "Dr Zexun Chen"
-    url: "https://github.com/Magica-Chen"
-  - name: "Shiqi Fang"
-    url: "https://github.com/99Catherine99"
-  - name: "Author Three"
-    url: "https://github.com/shiheqing"
+  name: Dr Zexun Chen, Shiqi Fang, Heqing Shi
+  email: Zexun.Chen[at]ed[dot]ac[dot]uk, S.Fang-6[at]sms[dot]ed[dot]ac[dot]uk, Heqing.Shi[at]ed[dot][ac][dot]uk
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
