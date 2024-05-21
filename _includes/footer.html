@@ -1,4 +1,12 @@
 <footer class="site-footer h-card">
+
+  <p>
+    &copy; {{ site.time | date: "%Y" }}
+    {% for author in site.authors %}
+      <a href="{{ author.url }}">{{ author.name }}</a>{% if forloop.last == false %}, {% endif %}
+    {% endfor %}
+  </p>
+  
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
