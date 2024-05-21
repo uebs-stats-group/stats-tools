@@ -1,8 +1,8 @@
 title: Statistical Tools for Finance Research
 authors:
-  - name: "<a href='https://authoronewebsite.com'>Author One</a>"
-  - name: "<a href='https://authortwowebsite.com'>Author Two</a>"
-  - name: "<a href='https://authorthreewebsite.com'>Author Three</a>"
+  - name: <a href='https://authoronewebsite.com'>Author One</a>
+  - name: <a href='https://authortwowebsite.com'>Author Two</a>
+  - name: <a href='https://authorthreewebsite.com'>Author Three</a>
 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
