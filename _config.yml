@@ -1,9 +1,10 @@
 title: Statistical Tools for Finance Research
 author:
-  name: Dr Zexun Chen___________Zexun.Chen@ed.ac.uk
-        Shiqi Fang(Management) S.Fang-6@sms.ed.ac.uk
-        Heqing Shi(Fintech) Heqing.Shi@ed.ac.uk
+  name: Dr Zexun Chen (Predictive Analysis) Zexun.Chen@ed.ac.uk
+        Shiqi Fang (Management) S.Fang-6@sms.ed.ac.uk
+        Heqing Shi (Fintech) Heqing.Shi@ed.ac.uk
 
+        #Dr Zexun Chen___________Zexun.Chen@ed.ac.uk
         #Shiqi Fang_________S.Fang-6@sms.ed.ac.uk (Management)
         #Heqing Shi_________Heqing.Shi@ed.ac.uk
 
@@ -11,7 +12,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This webpage is to document and share some basic (classical) statistical tools, e.g. statistical tests, regression models
+  This webpage is to document and share some basic statistical tools, e.g. statistical tests, regression models
    that are extensively used in finance research. All posts are currently maintained by @Shiqi Fang and @Heqing Shi, with the support from @Zexun Chen. 
    Topics such as credit scoring, risk forecasting and asset pricing will primarily be covered.
 
