@@ -3,7 +3,7 @@ authors:
   - name: "<a href='https://authoronewebsite.com'>Author One</a>"
   - name: "<a href='https://authortwowebsite.com'>Author Two</a>"
   - name: "<a href='https://authorthreewebsite.com'>Author Three</a>"
-  email:
+
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
