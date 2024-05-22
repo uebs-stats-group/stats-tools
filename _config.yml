@@ -36,7 +36,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
-  - risk_forecasting.md
+  #- risk_forecasting.md
   - asset_pricing.md
   - credit.md
 
