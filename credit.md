@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Credit Scoring
+title: Credit Research
 permalink: /credit/
 header_menu: true
 ---

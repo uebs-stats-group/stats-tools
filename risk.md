@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Risk Forecasting
-permalink: /risk_forecasting/
+title: Risk Management
+permalink: /risk_management/
 header_menu: true
 ---
 
