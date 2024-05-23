@@ -36,8 +36,14 @@ layout: base
         {%- endif -%}
 
         {% if forloop.index == 1 %}
-          <div class="mid-content">
+          <!--<div class="mid-content">
             <p> Welcome to the site again!
+          </div>-->
+          <div class="mid-content">
+            {% capture mid_content %}
+              {% include_relative mid_content.md %}
+            {% endcapture %}
+            {{ mid_content | markdownify }}
           </div>
         {% endif %}
 
