@@ -34,6 +34,13 @@ layout: base
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+
+        {% if forloop.index == 1 %}
+          <div class="mid-content">
+            <p> Welcome to the site again!
+          </div>
+        {% endif %}
+
       </li>
       {%- endfor -%}
     </ul>
