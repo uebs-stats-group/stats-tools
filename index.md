@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+Welcome to our site!
