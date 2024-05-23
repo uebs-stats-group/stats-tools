@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Some Title
+title: About Us
 ---
 
-Welcome to our site!
+Welcome to *Statistics for Business School Research*! This is a webpage to document and share some basic statistical tools, e.g. **statistical tests**, **regression models** that are extensively used in finance research. All posts are currently maintained by [@Shiqi Fang](https://github.com/99Catherine99) and [@Heqing Shi](https://github.com/shiheqing), with the support from [@Zexun Chen](https://github.com/Magica-Chen). Topics such as **credit scoring**, **risk forecasting** and **asset pricing** will primarily be covered.
