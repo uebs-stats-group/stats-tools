@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Asset Price
-permalink: /return/
+permalink: stats-tools/return/
 header_menu: true
 ---
 
