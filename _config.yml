@@ -90,4 +90,4 @@ collections:
   return:
     output: true
 
-permalink: /:collection/:title/
+#permalink: /:collection/:title/
