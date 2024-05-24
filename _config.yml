@@ -87,3 +87,5 @@ collections:
     output: true
   return:
     output: true
+
+permalink: /:collection/:title
