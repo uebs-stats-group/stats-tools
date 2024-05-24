@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: credit
 title: Credit Research
 permalink: /credit/
 header_menu: true
