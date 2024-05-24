@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Risk Management
-permalink: stats-tools/risk/
+permalink: /risk/
 header_menu: true
 ---
 
