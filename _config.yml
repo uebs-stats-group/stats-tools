@@ -35,9 +35,10 @@ plugins:
 # in order as they should show up.
 header_pages:
   #- about.md
+  - credit.md
   - risk.md
   - return.md
-  - credit.md
+  #- credit.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
