@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Asset Price
-permalink: /asset_price/
+permalink: /return/
 header_menu: true
 ---
 
