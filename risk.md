@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: risk
 title: Risk Management
 permalink: /risk/
 header_menu: true

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: return
 title: Asset Price
 permalink: /return/
 header_menu: true
