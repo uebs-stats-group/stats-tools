@@ -6,10 +6,30 @@ layout: default
 
 <div class="posts">
   {% for post in site.credit %}
-    <div class="post">
+    <!--<div class="post">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <!--<p>{{ post.excerpt }}</p>-->
-      <p>{{ post.date | date: "%B %-d, %Y" }}</p> <!-- Add this line to show the date -->
-    </div>
+      <p>{{ post.excerpt }}</p>
+      <p>{{ post.date | date: "%B %-d, %Y" }}</p>
+    </div>-->
+
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+
+      {% if forloop.index == 1 %}
+        <div class="mid-content">
+          <p> Welcome to the site again!
+        </div>
+      {% endif %}
+
+    </li>
+    
   {% endfor %}
 </div>
