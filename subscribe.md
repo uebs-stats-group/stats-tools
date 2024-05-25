@@ -5,7 +5,7 @@ permalink: /subscribe/
 ---
 
 <!-- Add your subscription form here -->
-<form action="https://forms.gle/YPgUtLxJd3umV2Xv6" method="POST">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSe6zF8HZR44hsRKLRSoDAQ0135BWASvjm0A4lpbMQ2zgAc0fQ/viewform" method="POST">
   <label for="email">Email:</label>
   <input type="email" id="email" name="email" required>
   <button type="submit">Subscribe</button>
