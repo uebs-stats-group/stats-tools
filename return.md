@@ -1,11 +1,11 @@
 ---
 layout: return
-title: Asset Price
+title: Asset Pricing
 permalink: /return/
 header_menu: true
 ---
 
-Content for **Asset Price** is still under construction. Below is example layout of this page.
+Content for **Asset Pricing** is still under construction. Below is example layout of this page.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
