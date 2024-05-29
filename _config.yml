@@ -12,7 +12,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This website is managed by UEBS Statistics Group. Please email one of the maintainers listed on the left or click the subscribe button to join us.
+  This website is managed by UEBS Statistics Group. Please feel free to email one of the maintainers listed on the left or click the subscribe button to join us.
 
 # Build settings
 
