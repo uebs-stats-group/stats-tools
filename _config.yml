@@ -1,8 +1,13 @@
 title: Statistics for Business School Research
 author:
-  name: Dr Zexun Chen (Statistics) | Zexun.Chen@ed.ac.uk
-        Shiqi Fang (Management) | S.Fang-6@sms.ed.ac.uk
-        Heqing Shi (Fintech) | Heqing.Shi@ed.ac.uk
+  - name: Dr Zexun Chen
+    email: Zexun.Chen@ed.ac.uk
+  - name: Shiqi Fang
+    email: S.Fang-6@sms.ed.ac.uk
+        
+  #Dr Zexun Chen (Statistics) | Zexun.Chen@ed.ac.uk
+        #Shiqi Fang (Management) | S.Fang-6@sms.ed.ac.uk
+        #Heqing Shi (Fintech) | Heqing.Shi@ed.ac.uk
 
         #Dr Zexun Chen___________Zexun.Chen@ed.ac.uk
         #Shiqi Fang_________S.Fang-6@sms.ed.ac.uk (Management)
