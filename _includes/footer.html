@@ -24,13 +24,13 @@
         </ul>
       {%- endif %}-->
       <!--<h3>Authors</h3>-->
-        <ul>
-          {% for author in site.author %}
-            <li>
-              {{ author.name }}: <a href="mailto:{{ author.email }}">{{ author.email }}</a>
-            </li>
-          {% endfor %}
-        </ul>
+      <div class="authors-list">
+        {% for author in site.authors %}
+          <div class="author">
+            {{ author.name }}: <a href="mailto:{{ author.email }}">{{ author.email }}</a>
+          </div>
+        {% endfor %}
+      </div>
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
