@@ -5,6 +5,9 @@ permalink: /schedule/
 header_menu: true
 ---
 
+We will organize **in-person** *group discussion* from time to time. Most of the discussions will be hosted at **University of Edinburgh Business School**. Scheduled meeting will be posted in the below and
+the exact location and time will also be confirmed therein.
+
 Content for **Meeting Schedule** is still under construction. Below is example layout of this page.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
