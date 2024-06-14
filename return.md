@@ -5,17 +5,4 @@ permalink: /return/
 header_menu: true
 ---
 
-Content for **Asset Pricing** is still under construction. Below is example layout of this page.
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+**Asset Pricing** is an important research topic in finance. Asset pricing studies try to answer the fundamental question &mdash; whether the return of financial assets (typically stocks, bonds, options and other derivative instruments) can be predicted (usually in cross-section). Statistical models and tests are intensively used to examine the return predictability. We summarize some important tools and post them below.
