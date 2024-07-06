@@ -48,6 +48,7 @@ header_pages:
   - credit.md
   - risk.md
   - return.md
+  - econometrics.md
   - schedule.md
   #- credit.md
 
@@ -99,6 +100,8 @@ collections:
   risk:
     output: true
   return:
+    output: true
+  econometrics:
     output: true
   schedule:
     output: true
