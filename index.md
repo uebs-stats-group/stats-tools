@@ -9,7 +9,7 @@ layout: home
 title: About Us
 ---
 
-Welcome to *Statistics for Business School Research*! This is a webpage to document and share some basic statistical tools, e.g. **statistical tests**, **regression models** that are extensively used in business school research. Posts and blogs are currently contributed by PhD researchers at University of Edinburgh Business School. Topics such as **credit scoring**, **risk forecasting** and **asset pricing** will primarily be covered, as these span our current main research interests.
+Welcome to *Statistics for Business School Research*! This is a webpage to document and share some basic statistical tools, e.g. **statistical tests**, **regression models** that are extensively used in business school research. All posts and blogs are currently contributed by PhD researchers from University of Edinburgh Business School. Topics such as **credit scoring**, **risk forecasting** and **asset pricing** will primarily be covered, as these span our current main research interests.
 <br/>
 <br/>
 <div style="text-align: center;">
