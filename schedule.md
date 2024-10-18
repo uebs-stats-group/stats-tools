@@ -1,6 +1,6 @@
 ---
 layout: schedule
-title: Meeting Schedule
+title: Schedule
 permalink: /schedule/
 header_menu: true
 ---
