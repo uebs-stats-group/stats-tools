@@ -5,4 +5,6 @@ permalink: /previous_talks/
 header_menu: true
 ---
 
-**Asset Pricing** is an important research topic in finance. Asset pricing studies try to answer the fundamental question &mdash; whether the return of financial assets (typically stocks, bonds, options and other derivative instruments) can be predicted (usually in cross-section). Statistical models and tests are intensively used to examine the return predictability. We summarize some important tools and post them below.
+**Previous Talks** archive contains recordings and materials from our past research discussions and presentations. These sessions cover various topics in statistics, econometrics, and their applications in business research.
+
+Below you can find the complete collection of our previous talks with links to presentation materials and notes.
