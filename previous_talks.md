@@ -1,7 +1,7 @@
 ---
-layout: return
+layout: previous_talks
 title: Previous Talks
-permalink: /return/
+permalink: /previous_talks/
 header_menu: true
 ---
 
