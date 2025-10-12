@@ -99,7 +99,7 @@ collections:
     output: true
   risk:
     output: true
-  return:
+  previous_talks:
     output: true
   econometrics:
     output: true
