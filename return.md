@@ -1,6 +1,6 @@
 ---
 layout: return
-title: Asset Pricing
+title: Previous Talks
 permalink: /return/
 header_menu: true
 ---
