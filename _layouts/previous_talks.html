@@ -13,7 +13,8 @@ layout: default
     <h2 class="post-list-heading">Talk Archive</h2>
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in site.previous_talks -%}
+      {%- assign talks = site.previous_talks | sort: 'path' | reverse -%}
+      {%- for post in talks -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
